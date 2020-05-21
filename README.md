@@ -7,7 +7,7 @@ Dataset: https://www.kaggle.com/kazanova/sentiment140
 * Train ```LSTM``` / ```CNN + LSTM```/ ```BiLSTM``` on sentiment140 dataset 
 * Utilizes ```Tensorflow```
 * Utilizes Pre-trained embedding layers ```GloVe``` + ```FastText```
-* Highest accuracy achieved ```84.3%```
+* Highest accuracy achieved ```84.3%``` with ```BiLSTM```
 
 # Contributors
 * Zheng Ju <br>
